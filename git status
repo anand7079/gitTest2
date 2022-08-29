@@ -1,0 +1,23 @@
+[33mcommit 6a220f9838ab87d92e0c06a49b59fa99417bfbca[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: anand7079 <anandraj.ak850@gmail.com>
+Date:   Mon Aug 29 10:03:33 2022 +0530
+
+    adding second file also
+
+[33mcommit 591f29dc18b7b99eb838d9adf79d437ba90960dd[m
+Author: anand7079 <anandraj.ak850@gmail.com>
+Date:   Mon Aug 29 09:59:57 2022 +0530
+
+    third commit without staging only first file
+
+[33mcommit 3154ab5cff7173eef576c12f0e0175464db1efc3[m
+Author: anand7079 <anandraj.ak850@gmail.com>
+Date:   Mon Aug 29 09:57:50 2022 +0530
+
+    second commit without staging only first file
+
+[33mcommit d54d2eb0ab8fc5866341dfb32bf2e2fb7c7e09b5[m
+Author: anand7079 <anandraj.ak850@gmail.com>
+Date:   Mon Aug 29 09:50:38 2022 +0530
+
+    first commit after staging only first file
